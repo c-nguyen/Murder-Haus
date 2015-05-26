@@ -1,4 +1,4 @@
-# MurderHaus
+# Murder Haus
 This is the final project to my Introduction to Programming and Problem Solving class (CS 141).<br>
 <br>
 Start: Spring 2014<br>
